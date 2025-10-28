@@ -1,17 +1,15 @@
 {
-  "name": "Hossein Margani",
-  "gender": "He/Him",
-  "title": "Software Engineer",
+  "name": "Atefeh Hajebi",
+  "gender": "She/Her",
+  "title": "UX/UI Designer",
   "details": {
     "location": "London, UK",
-    "email": "hossein@margani.dev",
-    "website": "https://margani.dev/",
-    "meeting": "https://calendly.com/margani/",
-    "github": "https://github.com/margani/",
-    "linkedIn": "https://www.linkedin.com/in/hosseinmargani/"
+    "email": "atihajebi1@gmail.com",
+    "website": "https://atidesign.co.uk/",
+    "linkedIn": "https://linkedin.com/in/atefehhajebi"
   },
   "output": {
-    "fileName": "Hossein-Margani-CV.pdf"
+    "fileName": "Atefeh-Hajebi-CV.pdf"
   },
   "summary": [
     "Dynamic and achievement-focused Senior DevOps Engineer with over four years of hands-on experience in designing, implementing, and maintaining secure and efficient cloud infrastructures and a solid foundation in software development."
@@ -132,3 +130,4 @@
     ]
   }
 }
+

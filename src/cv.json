@@ -4,7 +4,7 @@
   "title": "UX/UI Designer",
   "details": {
     "location": "London, UK",
-    "email": "atihajebi1@gmail.com",
+    "email": "atihajebi@gmail.com",
     "website": "https://atidesign.co.uk/",
     "meeting": "",
     "github": "https://github.com/atihajebi",
@@ -14,124 +14,196 @@
     "fileName": "Atefeh-Hajebi-CV.pdf"
   },
   "summary": [
-    "Dynamic and achievement-focused Senior DevOps Engineer with over four years of hands-on experience in designing, implementing, and maintaining secure and efficient cloud infrastructures and a solid foundation in software development."
+    "Enthusiastic and detail-oriented UX/UI Designer with a strong foundation in user research, interaction design, and accessibility.Over 12 years of cross-functional experience in engineering, design, and customer experience, enabling a deep understanding of both business and user needs. Skilled in creating user-centred solutions through data-driven research and iterative design.Proficient in leveraging AI-powered tools such as ChatGPT, Gemini, and GitHub Copilot to enhance ideation, research, and workflow efficiency. Actively exploring emerging tools like Notion AI and Uizard to stay updated with the latest UX/UI design trends. Passionate about delivering inclusive, visually engaging, and impactful digital experiences for web and mobile platforms."
   ],
   "skills": [
-    "Demonstrated expertise in Azure infrastructure, excelling in cost estimation, architectural design, and implementation. Proven success in optimizing cloud resources to ensure cost-effectiveness while maintaining high-performance and scalability.",
-    "Expert in orchestrating CI/CD pipelines using Octopus Deploy, Azure Pipelines and GitHub Actions, ensuring efficient and reliable delivery of software solutions with a focus on automation and continuous integration.",
-    "Expert in PowerShell, Bash and Python scripting for efficient process automation",
-    "Expert in C#, .NET Core, SQL Server, RESTful API",
-    "Expert in crafting and managing Infrastructure as Code solutions using ARM and Bicep templates, ensuring scalable, efficient, and automated deployment of cloud resources."
+    "UX Design: User Research · Wireframing · Prototyping · Information Architecture · User Journeys · Usability Testing · Interaction Design.",
+    "UI Design: Visual Design · Design Systems · Responsive Layouts · Typography & Iconography · Accessibility (WCAG).",
+    "Research Methods: Surveys · User Interviews · Affinity Mapping · Card Sorting · Heuristic Evaluation · Competitive Analysis.",
+    "Soft Skills: Communication · Collaboration · Problem Solving · Time Management · Fast Learning · Creativity ",
+  ],
+  "Tools & Software": [
+    "Design & Research: Figma · FigJam · Miro · Canva · Maze · Trello · Jira",
+    "AI & Automation: ChatGPT · Gemini · GitHub Copilot.",
+    "Additional Familiarity: Notion AI · Uizard (familiar with concepts, exploring for future use).",
+    "Collaboration & Communication: Microsoft Teams · Zoom · Slack · Google Workspace.",
+    "Version Control: GitHub.",
   ],
   "history": {
     "employment": [
       {
-        "title": "Senior DevOps Engineer",
-        "employer": "WTW",
-        "location": "Reigate, UK",
-        "startDate": "June 2024",
+        "title": "Product Designer",
+        "employer": "Melody Town Music (E-Commerce)",
+        "location": "Remote, Germany",
+        "startDate": "Jul 2024",
         "description": [
+          "Conducted user interviews, surveys, and contextual inquiries to identify user needs.",
+          "Created site maps, user flows, and low- to high-fidelity prototypes using Figma.",
+          "Collaborated with stakeholders to align business and user goals.",
+          "Performed usability and accessibility testing to refine the final design.",
         ]
       },
       {
-        "title": "Senior DevOps Engineer",
-        "employer": "Aqovia",
-        "location": "London, UK",
-        "startDate": "Aug 2022",
+        "title": "User Researcher & UX/UI Designer",
+        "employer": "Swift Services",
+        "location": "Remote, Portugal",
+        "startDate": "Feb 2024",
         "endDate": "June 2024",
         "description": [
-          "Spearheaded two separate DevOps teams, providing strategic direction and technical guidance in alignment with project goals and industry best practices.",
-          "Led the development of Azure infrastructure solutions, ensuring robust, scalable, and secure environments for optimal application deployment and performance.",
-          "Fostered a collaborative and innovative team culture, overseeing the work of DevOps teams to achieve project objectives effectively.",
-          "Provided mentorship and support to team members, fostering skill development and knowledge sharing within the teams.",
-          "Leveraged expert knowledge of Azure infrastructure to architect, implement, and maintain secure cloud environments, optimizing resources for cost-effectiveness and scalability.",
-          "Collaborated closely with developers to understand project requirements, translating them into effective infrastructure solutions that supported seamless development and deployment workflows.",
-          "Championed and embedded DevSecOps practices within the teams, integrating security into the development and deployment pipelines.",
-          "Ensured the adoption of security best practices, conducting regular assessments, and implementing measures to enhance the overall security posture of the projects.",
-          "Encouraged a culture of continuous improvement, regularly evaluating and enhancing the efficiency of CI/CD pipelines and infrastructure provisioning processes.",
-          "Introduced innovative solutions and tools to streamline development workflows, increase automation, and improve overall project delivery timelines."
+          "Led research through surveys and interviews to understand user goals and needs.",
+          "Developed wireframes, mockups, and interactive prototypes.",
+          "Conducted mid- to high-fidelity usability testing and accessibility audits.",
         ]
       },
       {
-        "title": "DevOps Engineer",
-        "employer": "Aqovia",
+        "title": "UX Teacher Assistant",
+        "employer": "UXLand Online School",
+        "location": "Remote, USA",
+        "startDate": "Jan 2024",
+        "endDate": "Apr 2024",
+        "description": [
+          "Assisted students in UX/UI research and design projects.",
+          "Mentored learners to improve project quality and meet deadlines.",
+          "Facilitated group collaboration and creative problem-solving sessions.",
+        ]
+      },
+      {
+        "title": "UX Architect & Interaction Designer",
+        "employer": "Saving Face (Online Project)",
+        "location": "Remote, USA",
+        "startDate": "Oct 2023",
+        "endDate": "Dec 2023",
+        "description": [
+          "Conducted heuristic evaluation and competitor analysis for redesign.",
+          "Created site map and user flow via card sorting.",
+          "Developed wireframes and interactive prototypes focused on usability."
+        ]
+      },
+      {
+        "title": "Sales Associate / Stylist",
+        "employer": "Reiss",
+        "location": "London, UK",
+        "startDate": "Nov 2021",
+        "endDate": "Jul 2022"
+        "description": [
+          "Delivered premium in-store client experiences and styling consultations.",
+          "Collaborated with digital teams to enhance online shopping UX through customer insights.",
+          "Maximised sales while maintaining high service standards."
+        ]
+      },
+      {
+        "title": "Financial Clerk",
+        "employer": "Total Coding",
         "location": "London, UK",
         "startDate": "Oct 2018",
-        "endDate": "Aug 2022",
+        "endDate": "Aug 2020"
         "description": [
-          "Crafted and maintained scripts and templates for automating CI/CD pipelines in Azure Pipelines (YAML).",
-          "Designed and maintained ARM/Bicep templates for provisioning Azure resources for environments.",
-          "Orchestrated container clusters using Azure Kubernetes and Helm v3 charts and Docker containers for deploying external API sandboxes.",
-          "Established an Azure Pipelines-based pipeline for patching and updating Azure Kubernetes clusters to the latest version.",
-          "Provided expert consultation to the development team on optimizing Azure cloud services and implementing efficient DevOps practices. Collaborated with team members to implement robust CI/CD pipelines, ensuring seamless integration of new features and enhancements.",
-          "Automated provisioning of test environments using Chef, Vagrant and Octopus Deploy.",
-          "Streamlined nightly deployment of pipelines to test environments using Azure Pipelines (YAML) and Azure Automation Accounts (PowerShell), complemented by the creation of an informative dashboard in Azure DevOps showcasing the status of all pipeline runs.",
-          "Developed an Octopus Deploy Runbook to automate and orchestrate a complex, cross-team process within the client's organization, significantly reducing the timeline from a month to less than a week.",
-          "Set up and configured private endpoints for Azure services, enhancing security by restricting resource access to designated networks and subnets.",
-          "Managed and sustained WAF policies for Azure Front Door, ensuring robust security measures for front-end applications and APIs.",
-          "Established and upheld SQL vulnerability assessments for Azure SQL databases, offering insightful recommendations to the development team for prompt issue resolution.",
-          "Set up and configured deployment slots for Azure Function Apps, enabling zero-downtime deployments for microservices and APIs."
+          "Managed usability feedback on financial software and recommended IA improvements.",
+          "Reported layout and functionality issues directly to development teams.",
+          "Supported product optimisation through continuous iteration and testing."
         ]
       },
       {
-        "title": "Senior Software Engineer",
-        "employer": "Aqovia",
+        "title": "Customer Service Manager",
+        "employer": "Total Coding",
         "location": "London, UK",
-        "startDate": "Oct 2017",
-        "endDate": "Oct 2018",
+        "startDate": "Jan 2018",
+        "endDate": "Jul 2018"
         "description": [
-          "Engaged in productive collaboration with the team to comprehend requirements and business specifications effectively.",
-          "Engaged in full-stack development using .NET, lit-html, Redux, with a focus on Test-Driven Development",
-          "Designed and sustained web application architecture, microservices, and contemporary component-based user interfaces."
+          "Supervised the support team and tracked user issues to enhance satisfaction.",
+          "Reported UX-related bugs and usability pain points to developers.",
+          "Coordinated between customer service and product design teams."
         ]
       },
       {
-        "title": "Senior Software Engineer",
-        "employer": "Geeks Ltd",
+        "title": "Customer Service Advisor",
+        "employer": "Total Coding",
         "location": "London, UK",
-        "startDate": "Mar 2016",
-        "endDate": "Sep 2017"
+        "startDate": "Dec 2016",
+        "endDate": "Jan 2018"
+        "description": [
+          "Delivered customer and technical support across multiple service platforms.",
+          "Logged user feedback to guide product and UX improvements.",
+        ]
       },
       {
-        "title": "Software Engineer",
-        "employer": "PTC",
-        "location": "Mashhad, Iran",
-        "startDate": "Feb 2014",
-        "endDate": "Jun 2015"
-      },
-      {
-        "title": "Software Developer",
+        "title": "Commercial Expert",
         "employer": "GoldNet Engineering Group",
         "location": "Mashhad, Iran",
-        "startDate": "Jun 2010",
-        "endDate": "Feb 2014"
+        "startDate": "Jul 2012",
+        "endDate": "Mar 2014"
+        "description": [
+          "Managed GPS tracking software client support and training.",
+          "Advised customers on optimal product solutions and improved user experience.",
+        ]
       },
       {
-        "title": "Software Developer",
-        "employer": "Moshaveran Meshcut Shargh",
+        "title": "Electrical Lab Manager & QA Engineer ",
+        "employer": "Toos Fuse Co.",
         "location": "Mashhad, Iran",
-        "startDate": "May 2006",
-        "endDate": "May 2010"
+        "startDate": "Aug 2011",
+        "endDate": "Jul 2012"
+        "description": [
+          "Designed and usability-tested software for electrical meter data systems.",
+          "Led QA testing and technical documentation for manufacturing workflows.",
+          "Enhanced process efficiency through improved UX in technical interfaces.",
+        ]
+      },
+      {
+        "title": "Robotics Committee Manager ",
+        "employer": "Azad University",
+        "location": "Mashhad, Iran",
+        "startDate": "Oct 2008",
+        "endDate": "Jun 2010"
+        "description": [
+          "Managed and coached robotics teams for competitive projects.",
+          "Organised MAZE and line-following robot competitions.",
+        ]
       }
     ],
+    "Certifications": [
+      {
+        "title": "UX/UI Design Certificate ",
+        "school": "UXLand Online School",
+        "startDate": "2023",
+        "endDate": "2024"
+        "location": "Online, USA",
+      },
+      {
+        "title": "UX Fundamentals Bootcamp ",
+        "school": "Nexa-Land",
+        "startDate": "2023",
+        "endDate": "2023"
+        "location": "Online, USA",
+      },
+      {
+        "title": "UX/UI Action Bootcamp ",
+        "school": "Nexa-Land",
+        "startDate": "2024",
+        "endDate": "2024"
+        "location": "Online, USA",
+      },
     "education": [
       {
         "school": "Islamic Azad University of Mashhad",
-        "degree": "M.Sc.",
+        "degree": "B.Sc.",
         "field": "Computer Software Engineering",
         "location": "Mashhad, Iran",
         "description": "Devised an enhanced algorithm for image encryption using cellular automata and chaos theory"
       },
+      "Volunteer Work": [
       {
-        "school": "Sadjad Institute of Higher Education",
-        "degree": "B.Sc.",
-        "field": "Computer Software Engineering",
-        "location": "Mashhad, Iran",
-        "description": "Engineered an algorithm for fast detection of glass particles in glass containers using C# and MATLAB"
+        "title": "Sadjad Institute of Higher Education",
+        "location": "Kingston upon Thames, UK",
+        "description": [
+          "Assisted customers and gathered feedback to improve in-store experience.",
+          "Supported day-to-day store operations with attention to user comfort and accessibility.",
+        ]
       }
     ]
   }
 }
+
 
 
 

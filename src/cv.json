@@ -17,16 +17,16 @@
     "Enthusiastic and detail-oriented UX/UI Designer with a strong foundation in user research, interaction design, and accessibility.Over 12 years of cross-functional experience in engineering, design, and customer experience, enabling a deep understanding of both business and user needs. Skilled in creating user-centred solutions through data-driven research and iterative design.Proficient in leveraging AI-powered tools such as ChatGPT, Gemini, and GitHub Copilot to enhance ideation, research, and workflow efficiency. Actively exploring emerging tools like Notion AI and Uizard to stay updated with the latest UX/UI design trends. Passionate about delivering inclusive, visually engaging, and impactful digital experiences for web and mobile platforms."
   ],
   "skills": [
-    "UX Design: User Research · Wireframing · Prototyping · Information Architecture · User Journeys · Usability Testing · Interaction Design."
-    "UI Design: Visual Design · Design Systems · Responsive Layouts · Typography & Iconography · Accessibility (WCAG)."
-    "Research Methods: Surveys · User Interviews · Affinity Mapping · Card Sorting · Heuristic Evaluation · Competitive Analysis."
+    "UX Design: User Research · Wireframing · Prototyping · Information Architecture · User Journeys · Usability Testing · Interaction Design.",
+    "UI Design: Visual Design · Design Systems · Responsive Layouts · Typography & Iconography · Accessibility (WCAG).",
+    "Research Methods: Surveys · User Interviews · Affinity Mapping · Card Sorting · Heuristic Evaluation · Competitive Analysis.",
     "Soft Skills: Communication · Collaboration · Problem Solving · Time Management · Fast Learning · Creativity "
   ],
   "tools": [
     "Design & Research: Figma · FigJam · Miro · Canva · Maze · Trello · Jira",
     "AI & Automation: ChatGPT · Gemini · GitHub Copilot.",
-    "Additional Familiarity: Notion AI · Uizard (familiar with concepts, exploring for future use)."
-    "Collaboration & Communication: Microsoft Teams · Zoom · Slack · Google Workspace."
+    "Additional Familiarity: Notion AI · Uizard (familiar with concepts, exploring for future use).",
+    "Collaboration & Communication: Microsoft Teams · Zoom · Slack · Google Workspace.",
     "Version Control: GitHub."
   ],
   "history": {
@@ -40,7 +40,7 @@
           "Conducted user interviews, surveys, and contextual inquiries to identify user needs.",
           "Created site maps, user flows, and low- to high-fidelity prototypes using Figma.",
           "Collaborated with stakeholders to align business and user goals.",
-          "Performed usability and accessibility testing to refine the final design.",
+          "Performed usability and accessibility testing to refine the final design."
         ]
       },
       {
@@ -52,7 +52,7 @@
         "description": [
           "Led research through surveys and interviews to understand user goals and needs.",
           "Developed wireframes, mockups, and interactive prototypes.",
-          "Conducted mid- to high-fidelity usability testing and accessibility audits.",
+          "Conducted mid- to high-fidelity usability testing and accessibility audits."
         ]
       },
       {
@@ -64,7 +64,7 @@
         "description": [
           "Assisted students in UX/UI research and design projects.",
           "Mentored learners to improve project quality and meet deadlines.",
-          "Facilitated group collaboration and creative problem-solving sessions.",
+          "Facilitated group collaboration and creative problem-solving sessions."
         ]
       },
       {
@@ -123,7 +123,7 @@
         "endDate": "Jan 2018"
         "description": [
           "Delivered customer and technical support across multiple service platforms.",
-          "Logged user feedback to guide product and UX improvements.",
+          "Logged user feedback to guide product and UX improvements."
         ]
       },
       {
@@ -134,7 +134,7 @@
         "endDate": "Mar 2014"
         "description": [
           "Managed GPS tracking software client support and training.",
-          "Advised customers on optimal product solutions and improved user experience.",
+          "Advised customers on optimal product solutions and improved user experience."
         ]
       },
       {
@@ -146,7 +146,7 @@
         "description": [
           "Designed and usability-tested software for electrical meter data systems.",
           "Led QA testing and technical documentation for manufacturing workflows.",
-          "Enhanced process efficiency through improved UX in technical interfaces.",
+          "Enhanced process efficiency through improved UX in technical interfaces."
         ]
       },
       {
@@ -157,7 +157,7 @@
         "endDate": "Jun 2010"
         "description": [
           "Managed and coached robotics teams for competitive projects.",
-          "Organised MAZE and line-following robot competitions.",
+          "Organised MAZE and line-following robot competitions."
         ]
       }
     ],
@@ -167,21 +167,21 @@
         "school": "UXLand Online School",
         "startDate": "2023",
         "endDate": "2024"
-        "location": "Online, USA",
+        "location": "Online, USA"
       },
       {
         "title": "UX Fundamentals Bootcamp ",
         "school": "Nexa-Land",
         "startDate": "2023",
         "endDate": "2023"
-        "location": "Online, USA",
+        "location": "Online, USA"
       },
       {
         "title": "UX/UI Action Bootcamp ",
         "school": "Nexa-Land",
         "startDate": "2024",
         "endDate": "2024"
-        "location": "Online, USA",
+        "location": "Online, USA"
       },
     "education": [
       {
@@ -197,12 +197,13 @@
         "location": "Kingston upon Thames, UK",
         "description": [
           "Assisted customers and gathered feedback to improve in-store experience.",
-          "Supported day-to-day store operations with attention to user comfort and accessibility.",
+          "Supported day-to-day store operations with attention to user comfort and accessibility."
         ]
       }
     ]
   }
 }
+
 
 
 

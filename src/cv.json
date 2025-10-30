@@ -84,7 +84,7 @@
         "employer": "Reiss",
         "location": "London, UK",
         "startDate": "Nov 2021",
-        "endDate": "Jul 2022"
+        "endDate": "Jul 2022",
         "description": [
           "Delivered premium in-store client experiences and styling consultations.",
           "Collaborated with digital teams to enhance online shopping UX through customer insights.",
@@ -96,7 +96,7 @@
         "employer": "Total Coding",
         "location": "London, UK",
         "startDate": "Oct 2018",
-        "endDate": "Aug 2020"
+        "endDate": "Aug 2020",
         "description": [
           "Managed usability feedback on financial software and recommended IA improvements.",
           "Reported layout and functionality issues directly to development teams.",
@@ -108,7 +108,7 @@
         "employer": "Total Coding",
         "location": "London, UK",
         "startDate": "Jan 2018",
-        "endDate": "Jul 2018"
+        "endDate": "Jul 2018",
         "description": [
           "Supervised the support team and tracked user issues to enhance satisfaction.",
           "Reported UX-related bugs and usability pain points to developers.",
@@ -120,7 +120,7 @@
         "employer": "Total Coding",
         "location": "London, UK",
         "startDate": "Dec 2016",
-        "endDate": "Jan 2018"
+        "endDate": "Jan 2018",
         "description": [
           "Delivered customer and technical support across multiple service platforms.",
           "Logged user feedback to guide product and UX improvements."
@@ -131,7 +131,7 @@
         "employer": "GoldNet Engineering Group",
         "location": "Mashhad, Iran",
         "startDate": "Jul 2012",
-        "endDate": "Mar 2014"
+        "endDate": "Mar 2014",
         "description": [
           "Managed GPS tracking software client support and training.",
           "Advised customers on optimal product solutions and improved user experience."
@@ -142,7 +142,7 @@
         "employer": "Toos Fuse Co.",
         "location": "Mashhad, Iran",
         "startDate": "Aug 2011",
-        "endDate": "Jul 2012"
+        "endDate": "Jul 2012",
         "description": [
           "Designed and usability-tested software for electrical meter data systems.",
           "Led QA testing and technical documentation for manufacturing workflows.",
@@ -154,35 +154,36 @@
         "employer": "Azad University",
         "location": "Mashhad, Iran",
         "startDate": "Oct 2008",
-        "endDate": "Jun 2010"
+        "endDate": "Jun 2010",
         "description": [
           "Managed and coached robotics teams for competitive projects.",
           "Organised MAZE and line-following robot competitions."
         ]
       }
     ],
-    "Certifications": [
+    "certifications": [
       {
         "title": "UX/UI Design Certificate ",
         "school": "UXLand Online School",
         "startDate": "2023",
-        "endDate": "2024"
+        "endDate": "2024",
         "location": "Online, USA"
       },
       {
         "title": "UX Fundamentals Bootcamp ",
         "school": "Nexa-Land",
         "startDate": "2023",
-        "endDate": "2023"
+        "endDate": "2023",
         "location": "Online, USA"
       },
       {
         "title": "UX/UI Action Bootcamp ",
         "school": "Nexa-Land",
         "startDate": "2024",
-        "endDate": "2024"
+        "endDate": "2024",
         "location": "Online, USA"
-      },
+      }
+    ],
     "education": [
       {
         "school": "Islamic Azad University of Mashhad",
@@ -190,7 +191,8 @@
         "field": "Computer Software Engineering",
         "location": "Mashhad, Iran",
         "description": "Devised an enhanced algorithm for image encryption using cellular automata and chaos theory"
-      },
+      }
+    ],
       "Volunteer Work": [
       {
         "title": "Sadjad Institute of Higher Education",
@@ -203,6 +205,7 @@
     ]
   }
 }
+
 
 
 

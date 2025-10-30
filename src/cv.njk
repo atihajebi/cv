@@ -83,13 +83,13 @@
                         <h3 class="fs-5 text-primary">Skills</h3>
                         <ul class="skills m-0 ps-4 pb-3">
                             {% for skill in skills -%}
-                                <li class="lh-base">{{ skill }}</li>
+                                <li class="lh-base"><span class="fw-bold">{{ skill.title }}</span>: <span>{{ skill.description }}</span></li>
                             {%- endfor %}
                         </ul>
                         <h3 class="fs-5 text-primary">Tools & Software </h3>
                         <ul class="skills m-0 ps-4 pb-3">
                             {% for tool in tools -%}
-                                <li class="lh-base">{{ tool }}</li>
+                                <li class="lh-base"><span class="fw-bold">{{ tool.title }}</span>: <span>{{ tool.description }}</span></li>
                             {%- endfor %}
                         </ul>
                     </div>

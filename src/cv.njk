@@ -184,7 +184,7 @@
 <h3 class="fs-5 text-primary pt-4">Education</h3>
                     {% for education in history.education -%}
                         <div class='stage'>
-                            <div class="fs-5">{{ education.school }}</div>
+                            <div class="fs-5 fw-bold">{{ education.school }}</div>
                             <span class="fs-6">{{ education.degree }} in {{ education.field }}</span>
                             {% if education.startDate %}
                                 <div class="pb-1">

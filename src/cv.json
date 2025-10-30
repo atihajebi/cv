@@ -63,7 +63,8 @@
         "title": "Product Designer",
         "employer": "Melody Town Music (E-Commerce)",
         "location": "Remote, Germany",
-        "startDate": "Jul 2024",
+        "startDate": "Feb 2024",
+        "endDate": "Jul 2024",
         "description": [
           "Conducted user interviews, surveys, and contextual inquiries to identify user needs.",
           "Created site maps, user flows, and low- to high-fidelity prototypes using Figma.",
@@ -233,6 +234,7 @@
     ]
   }
 }
+
 
 
 

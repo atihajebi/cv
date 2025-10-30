@@ -30,11 +30,12 @@
     {
       "title": "AI & Automation",
       "description":"ChatGPT · Gemini · GitHub Copilot"
-    }
+    },
     {
-      
-    }
-    "Additional Familiarity: Notion AI · Uizard (familiar with concepts, exploring for future use).",
+      "title":"Additional Familiarity",
+      "description":"Notion AI · Uizard (familiar with concepts, exploring for future use)"
+    },
+    
     "Collaboration & Communication: Microsoft Teams · Zoom · Slack · Google Workspace.",
     "Version Control: GitHub."
   ],

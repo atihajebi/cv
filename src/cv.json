@@ -23,8 +23,17 @@
     "Soft Skills: Communication · Collaboration · Problem Solving · Time Management · Fast Learning · Creativity "
   ],
   "tools": [
-    "Design & Research: Figma · FigJam · Miro · Canva · Maze · Trello · Jira",
-    "AI & Automation: ChatGPT · Gemini · GitHub Copilot.",
+    {
+      "title":"Design & Research",
+      "description": "Figma · FigJam · Miro · Canva · Maze · Trello · Jira"
+    },
+    {
+      "title": "AI & Automation",
+      "description":"ChatGPT · Gemini · GitHub Copilot"
+    }
+    {
+      
+    }
     "Additional Familiarity: Notion AI · Uizard (familiar with concepts, exploring for future use).",
     "Collaboration & Communication: Microsoft Teams · Zoom · Slack · Google Workspace.",
     "Version Control: GitHub."
@@ -205,6 +214,7 @@
     ]
   }
 }
+
 
 
 

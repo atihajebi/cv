@@ -22,7 +22,7 @@
     "Research Methods: Surveys · User Interviews · Affinity Mapping · Card Sorting · Heuristic Evaluation · Competitive Analysis."
     "Soft Skills: Communication · Collaboration · Problem Solving · Time Management · Fast Learning · Creativity "
   ],
-  "Tools & Software": [
+  "tools": [
     "Design & Research: Figma · FigJam · Miro · Canva · Maze · Trello · Jira",
     "AI & Automation: ChatGPT · Gemini · GitHub Copilot.",
     "Additional Familiarity: Notion AI · Uizard (familiar with concepts, exploring for future use)."
@@ -203,6 +203,7 @@
     ]
   }
 }
+
 
 
 

@@ -193,9 +193,9 @@
         "description": "Devised an enhanced algorithm for image encryption using cellular automata and chaos theory"
       }
     ],
-      "Volunteer Work": [
+      "volunteerWorks": [
       {
-        "title": "Sadjad Institute of Higher Education",
+        "title": "Oxfam",
         "location": "Kingston upon Thames, UK",
         "description": [
           "Assisted customers and gathered feedback to improve in-store experience.",
@@ -205,6 +205,7 @@
     ]
   }
 }
+
 
 
 

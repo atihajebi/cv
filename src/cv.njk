@@ -181,21 +181,7 @@
                             {% endif %}
                         </div>
                     {%- endfor %}
- <h3 class="fs-5 text-primary">Certifications</h3>
-                    {% for certification in history.certifications -%}
-                        <div class="stage mb-2">
-                            <span class="fw-bold fs-5">{{ certification.title }}</span>
-                            <span class="fs-6">{{ certification.school }}</span>
-                            <div class="pb-1">
-                                <ion-icon name="calendar-outline" class="icon"></ion-icon>
-                                <span>{{ certification.startDate }} - {{ certification.endDate if certification.endDate else "Now" }}{{ certification.endDate | dateDiff(certification.startDate, ' (', ')') if certification.endDate else '' }},</span>
-                                <ion-icon class="icon" name="location-outline"></ion-icon>
-                                <span>{{ certification.location }}</span>
-                            </div>
-                            
-                        </div>
-                    {%- endfor %}
-                    <h3 class="fs-5 text-primary">Education</h3>
+<h3 class="fs-5 text-primary">Education</h3>
                     {% for education in history.education -%}
                         <div class='stage'>
                             <div class="fs-5">{{ education.school }}</div>
@@ -210,9 +196,25 @@
                             {% endif %}
                             <div class='pb-3'>
                                 <span>{{ education.description }}</span>
+
                             </div>
                         </div>
                     {%- endfor %}
+                            </div>
+                            
+                        </div>
+ <h3 class="fs-5 text-primary">Certifications</h3>
+                    {% for certification in history.certifications -%}
+                        <div class="stage mb-2">
+                            <span class="fw-bold fs-5">{{ certification.title }}</span>
+                            <span class="fs-6">{{ certification.school }}</span>
+                            <div class="pb-1">
+                                <ion-icon name="calendar-outline" class="icon"></ion-icon>
+                                <span>{{ certification.startDate }} - {{ certification.endDate if certification.endDate else "Now" }}{{ certification.endDate | dateDiff(certification.startDate, ' (', ')') if certification.endDate else '' }},</span>
+                                <ion-icon class="icon" name="location-outline"></ion-icon>
+                                <span>{{ certification.location }}</span>
+                    {%- endfor %}
+                    
 <h3 class="fs-5 text-primary">Volunteer Works</h3>
                     {% for work in history.volunteerWorks -%}
                         <div class="stage mb-2">

@@ -213,6 +213,27 @@
                             </div>
                         </div>
                     {%- endfor %}
+<h3 class="fs-5 text-primary">Volunteer Works</h3>
+                    {% for work in history.volunteerWorks -%}
+                        <div class="stage mb-2">
+                            <span class="fw-bold fs-5">{{ work.title }}</span>
+                            <div class="pb-1">
+                                <ion-icon class="icon" name="location-outline"></ion-icon>
+                                <span>{{ work.location }}</span>
+                            </div>
+                            {% if work.description %}
+                                {% if isArray(work.description) %}
+                                    <ul class="mb-0">
+                                        {% for description in work.description -%}
+                                            <li>{{description}}</li>
+                                        {%- endfor %}
+                                    </ul>
+                                {% else %}
+                                    <span>{{ work.description }}</span>
+                                {% endif %}
+                            {% endif %}
+                        </div>
+                    {%- endfor %}
                     {% if projects %}
                         <h3 class="fs-5 text-primary">Projects</h3>
                         {% for project in projects -%}

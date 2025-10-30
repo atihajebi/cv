@@ -74,10 +74,10 @@
                         <div class="pt-3 pb-0">
                             {% if isArray(summary) %}
                                 {% for paragraph in summary -%}
-                                    <p>{{paragraph}}</p>
+                                    <p>{{paragraph | safe}}</p>
                                 {%- endfor %}
                             {% else %}
-                                <p>{{ summary }}</p>
+                                <p>{{ summary | safe}}</p>
                             {% endif %}
                         </div>
                         <h3 class="fs-5 text-primary">Skills</h3>

@@ -135,6 +135,7 @@
                                     <a href="{{ details.linkedIn }}">{{ details.linkedIn | shortUrl }}</a>
                                 </td>
                             </tr>
+{% if details.github %}
                             <tr>
                                 <td class="pt-2">
                                     <ion-icon name="calendar-outline" class="icon"></ion-icon>
@@ -143,6 +144,7 @@
                                     <a href="{{ details.meeting }}">{{ details.meeting | shortUrl }}</a>
                                 </td>
                             </tr>
+{% endif %}
                             <tr>
                                 <td class="pt-2">
                                     <ion-icon name="calendar-outline" class="icon"></ion-icon>

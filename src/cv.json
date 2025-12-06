@@ -201,15 +201,22 @@
       {
         "title": "UX Fundamentals Bootcamp ",
         "school": "Nexa-Land",
-        "startDate": "2023",
-        "endDate": "2023",
+        "startDate": "Oct 2023",
+        "endDate": "Jan 2024",
         "location": "Online, USA"
       },
       {
         "title": "UX/UI Action Bootcamp ",
         "school": "Nexa-Land",
-        "startDate": "2024",
-        "endDate": "2024",
+        "startDate": "Feb 2024",
+        "endDate": "Apr 2024",
+        "location": "Online, USA"
+      },
+      {
+        "title": "UX Portfolio Bootcamp ",
+        "school": "Nexa-Land",
+        "startDate": "Jun 2024",
+        "endDate": "Aug 2024",
         "location": "Online, USA"
       }
     ],
@@ -234,6 +241,7 @@
     ]
   }
 }
+
 
 
 
